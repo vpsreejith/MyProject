@@ -1,0 +1,744 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6991776700,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is in NHS home page",
+            "match": {
+              "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 607973500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user click on next button of the webpage",
+            "match": {
+              "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 527197200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Selects \"wales \" on Country selection page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "wales ",
+                  "offset": 14
+                }
+              ],
+              "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 876416000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enters Date Of birth \"12\" \"08\" \"1996\" on Date of Birth Page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12",
+                  "offset": 27
+                },
+                {
+                  "val": "08",
+                  "offset": 32
+                },
+                {
+                  "val": "1996",
+                  "offset": 37
+                }
+              ],
+              "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 46300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "It should display Living with partner option table",
+            "match": {
+              "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Verify Select Living with Partner options",
+        "description": "",
+        "id": "nhs-help-checker-funcationality;verify-select-living-with-partner-options;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 25115500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is in Partner status page",
+            "match": {
+              "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 429250500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user select \"Yes\" for living with partner option",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Yes",
+                  "offset": 13
+                }
+              ],
+              "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1968524900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user selects \"Yes\" yes or no for Benefit and enter benefit details",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Yes",
+                  "offset": 14
+                }
+              ],
+              "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2727744700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user answers the health questions",
+            "match": {
+              "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8609500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "it should display NHS Help Result page",
+            "match": {
+              "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6846793500,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is in NHS home page",
+            "match": {
+              "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 551482900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user click on next button of the webpage",
+            "match": {
+              "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 594157400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Selects \"wales \" on Country selection page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "wales ",
+                  "offset": 14
+                }
+              ],
+              "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1009809300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enters Date Of birth \"12\" \"08\" \"1996\" on Date of Birth Page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12",
+                  "offset": 27
+                },
+                {
+                  "val": "08",
+                  "offset": 32
+                },
+                {
+                  "val": "1996",
+                  "offset": 37
+                }
+              ],
+              "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 32700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "It should display Living with partner option table",
+            "match": {
+              "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Verify Select Living with Partner options",
+        "description": "",
+        "id": "nhs-help-checker-funcationality;verify-select-living-with-partner-options;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16628300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is in Partner status page",
+            "match": {
+              "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 486689400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user select \"Yes\" for living with partner option",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Yes",
+                  "offset": 13
+                }
+              ],
+              "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 557059200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user selects \"No\" yes or no for Benefit and enter benefit details",
+            "match": {
+              "arguments": [
+                {
+                  "val": "No",
+                  "offset": 14
+                }
+              ],
+              "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3520229000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user answers the health questions",
+            "match": {
+              "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55333600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "it should display NHS Help Result page",
+            "match": {
+              "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5638199100,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is in NHS home page",
+            "match": {
+              "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 691105000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user click on next button of the webpage",
+            "match": {
+              "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 580175300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Selects \"wales \" on Country selection page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "wales ",
+                  "offset": 14
+                }
+              ],
+              "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 909117600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enters Date Of birth \"12\" \"08\" \"1996\" on Date of Birth Page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12",
+                  "offset": 27
+                },
+                {
+                  "val": "08",
+                  "offset": 32
+                },
+                {
+                  "val": "1996",
+                  "offset": 37
+                }
+              ],
+              "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 46600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "It should display Living with partner option table",
+            "match": {
+              "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Verify Select Living with Partner options",
+        "description": "",
+        "id": "nhs-help-checker-funcationality;verify-select-living-with-partner-options;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19109700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is in Partner status page",
+            "match": {
+              "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 493568400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user select \"No\" for living with partner option",
+            "match": {
+              "arguments": [
+                {
+                  "val": "No",
+                  "offset": 13
+                }
+              ],
+              "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2107397400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user selects \"Yes\" yes or no for Benefit and enter benefit details",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Yes",
+                  "offset": 14
+                }
+              ],
+              "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3332922700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user answers the health questions",
+            "match": {
+              "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 24024700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "it should display NHS Help Result page",
+            "match": {
+              "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@test"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5797659300,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is in NHS home page",
+            "match": {
+              "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 577405000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user click on next button of the webpage",
+            "match": {
+              "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 621489300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Selects \"wales \" on Country selection page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "wales ",
+                  "offset": 14
+                }
+              ],
+              "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1065733100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enters Date Of birth \"12\" \"08\" \"1996\" on Date of Birth Page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12",
+                  "offset": 27
+                },
+                {
+                  "val": "08",
+                  "offset": 32
+                },
+                {
+                  "val": "1996",
+                  "offset": 37
+                }
+              ],
+              "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 29800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "It should display Living with partner option table",
+            "match": {
+              "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Verify Select Living with Partner options",
+        "description": "",
+        "id": "nhs-help-checker-funcationality;verify-select-living-with-partner-options;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 21454800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is in Partner status page",
+            "match": {
+              "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 534640000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user select \"No\" for living with partner option",
+            "match": {
+              "arguments": [
+                {
+                  "val": "No",
+                  "offset": 13
+                }
+              ],
+              "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 583884500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user selects \"No\" yes or no for Benefit and enter benefit details",
+            "match": {
+              "arguments": [
+                {
+                  "val": "No",
+                  "offset": 14
+                }
+              ],
+              "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3211485400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user answers the health questions",
+            "match": {
+              "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 16748000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "it should display NHS Help Result page",
+            "match": {
+              "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "NHS Help Checker Funcationality",
+    "description": "",
+    "id": "nhs-help-checker-funcationality",
+    "keyword": "Feature",
+    "uri": "nhshelpchecker.feature"
+  }
+]
