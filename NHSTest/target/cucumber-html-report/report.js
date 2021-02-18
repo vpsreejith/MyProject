@@ -130,14 +130,14 @@ formatter.match({
   "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
 });
 formatter.result({
-  "duration": 6991776700,
+  "duration": 7745339400,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
 });
 formatter.result({
-  "duration": 607973500,
+  "duration": 536747300,
   "status": "passed"
 });
 formatter.match({
@@ -150,7 +150,7 @@ formatter.match({
   "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
 });
 formatter.result({
-  "duration": 527197200,
+  "duration": 484553300,
   "status": "passed"
 });
 formatter.match({
@@ -171,14 +171,14 @@ formatter.match({
   "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
 });
 formatter.result({
-  "duration": 876416000,
+  "duration": 1016687900,
   "status": "passed"
 });
 formatter.match({
   "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
 });
 formatter.result({
-  "duration": 46300,
+  "duration": 47900,
   "status": "passed"
 });
 formatter.scenario({
@@ -230,7 +230,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
 });
 formatter.result({
-  "duration": 25115500,
+  "duration": 18048500,
   "status": "passed"
 });
 formatter.match({
@@ -243,7 +243,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
 });
 formatter.result({
-  "duration": 429250500,
+  "duration": 466524500,
   "status": "passed"
 });
 formatter.match({
@@ -256,21 +256,21 @@ formatter.match({
   "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
 });
 formatter.result({
-  "duration": 1968524900,
+  "duration": 2121190300,
   "status": "passed"
 });
 formatter.match({
   "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
 });
 formatter.result({
-  "duration": 2727744700,
+  "duration": 3320393800,
   "status": "passed"
 });
 formatter.match({
   "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
 });
 formatter.result({
-  "duration": 8609500,
+  "duration": 20071700,
   "status": "passed"
 });
 formatter.background({
@@ -309,14 +309,14 @@ formatter.match({
   "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
 });
 formatter.result({
-  "duration": 6846793500,
+  "duration": 5576637900,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
 });
 formatter.result({
-  "duration": 551482900,
+  "duration": 691983000,
   "status": "passed"
 });
 formatter.match({
@@ -329,7 +329,7 @@ formatter.match({
   "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
 });
 formatter.result({
-  "duration": 594157400,
+  "duration": 654948600,
   "status": "passed"
 });
 formatter.match({
@@ -350,14 +350,14 @@ formatter.match({
   "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
 });
 formatter.result({
-  "duration": 1009809300,
+  "duration": 1129016000,
   "status": "passed"
 });
 formatter.match({
   "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
 });
 formatter.result({
-  "duration": 32700,
+  "duration": 34300,
   "status": "passed"
 });
 formatter.scenario({
@@ -409,7 +409,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
 });
 formatter.result({
-  "duration": 16628300,
+  "duration": 20758500,
   "status": "passed"
 });
 formatter.match({
@@ -422,7 +422,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
 });
 formatter.result({
-  "duration": 486689400,
+  "duration": 527831200,
   "status": "passed"
 });
 formatter.match({
@@ -435,21 +435,21 @@ formatter.match({
   "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
 });
 formatter.result({
-  "duration": 557059200,
+  "duration": 552558600,
   "status": "passed"
 });
 formatter.match({
   "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
 });
 formatter.result({
-  "duration": 3520229000,
+  "duration": 4056894000,
   "status": "passed"
 });
 formatter.match({
   "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
 });
 formatter.result({
-  "duration": 55333600,
+  "duration": 59538200,
   "status": "passed"
 });
 formatter.background({
@@ -488,14 +488,14 @@ formatter.match({
   "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
 });
 formatter.result({
-  "duration": 5638199100,
+  "duration": 9149256200,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
 });
 formatter.result({
-  "duration": 691105000,
+  "duration": 798949000,
   "status": "passed"
 });
 formatter.match({
@@ -508,7 +508,7 @@ formatter.match({
   "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
 });
 formatter.result({
-  "duration": 580175300,
+  "duration": 549488000,
   "status": "passed"
 });
 formatter.match({
@@ -529,14 +529,14 @@ formatter.match({
   "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
 });
 formatter.result({
-  "duration": 909117600,
+  "duration": 976241700,
   "status": "passed"
 });
 formatter.match({
   "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
 });
 formatter.result({
-  "duration": 46600,
+  "duration": 34100,
   "status": "passed"
 });
 formatter.scenario({
@@ -588,7 +588,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
 });
 formatter.result({
-  "duration": 19109700,
+  "duration": 37078300,
   "status": "passed"
 });
 formatter.match({
@@ -601,7 +601,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
 });
 formatter.result({
-  "duration": 493568400,
+  "duration": 509888900,
   "status": "passed"
 });
 formatter.match({
@@ -614,21 +614,21 @@ formatter.match({
   "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
 });
 formatter.result({
-  "duration": 2107397400,
+  "duration": 2897722800,
   "status": "passed"
 });
 formatter.match({
   "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
 });
 formatter.result({
-  "duration": 3332922700,
+  "duration": 3263240700,
   "status": "passed"
 });
 formatter.match({
   "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
 });
 formatter.result({
-  "duration": 24024700,
+  "duration": 14147000,
   "status": "passed"
 });
 formatter.background({
@@ -667,15 +667,15 @@ formatter.match({
   "location": "HomepageStepdefinition.user_is_in_NHS_home_page()"
 });
 formatter.result({
-  "duration": 5797659300,
-  "status": "passed"
+  "duration": 15921078600,
+  "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.cssSelector: button#nhsuk-cookie-banner__link_accept_analytics.button (tried for 10 second(s) with 500 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:81)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:271)\r\n\tat com.pages.HomePage.verifyHomepage(HomePage.java:22)\r\n\tat com.stepdefinition.HomepageStepdefinition.user_is_in_NHS_home_page(HomepageStepdefinition.java:13)\r\n\tat ✽.Given user is in NHS home page(nhshelpchecker.feature:3)\r\nCaused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d88.0.4324.182)\nBuild info: version: \u00273.11.0\u0027, revision: \u0027e59cfb3\u0027, time: \u00272018-03-11T20:26:55.152Z\u0027\nSystem info: host: \u0027E0352983\u0027, ip: \u002710.255.70.8\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002714.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\VANNAD~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60644}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 247368695a30af253cb9d2b9aaa6b77f\n*** Element info: {Using\u003dcss selector, value\u003dbutton#nhsuk-cookie-banner__link_accept_analytics.button}\r\n\tat jdk.internal.reflect.GeneratedConstructorAccessor8.newInstance(Unknown Source)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:346)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByCssSelector(RemoteWebDriver.java:417)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElements(By.java:441)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:307)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:44)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:206)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:657)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:654)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:248)\r\n\tat com.pages.HomePage.verifyHomepage(HomePage.java:22)\r\n\tat com.stepdefinition.HomepageStepdefinition.user_is_in_NHS_home_page(HomepageStepdefinition.java:13)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:300)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.runBackground(CucumberScenario.java:59)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:42)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "HomepageStepdefinition.user_click_on_next_button_of_the_webpage()"
 });
 formatter.result({
-  "duration": 577405000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -687,8 +687,7 @@ formatter.match({
   "location": "CountrySelectionStepdef.user_Selects_on_Country_selection_page(String)"
 });
 formatter.result({
-  "duration": 621489300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -708,15 +707,13 @@ formatter.match({
   "location": "DateOfBirthStepdef.user_Enters_Date_Of_birth_on_Date_of_Birth_Page(String,String,String)"
 });
 formatter.result({
-  "duration": 1065733100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "DateOfBirthStepdef.it_should_display_Living_with_partner_option_table()"
 });
 formatter.result({
-  "duration": 29800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 21,
@@ -767,8 +764,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_is_in_Partner_status_page()"
 });
 formatter.result({
-  "duration": 21454800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -780,8 +776,7 @@ formatter.match({
   "location": "PartnerStatusStepdef.user_select_for_living_with_partner_option(String)"
 });
 formatter.result({
-  "duration": 534640000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -793,21 +788,18 @@ formatter.match({
   "location": "BenefitStepDefinition.user_selects_yes_or_no_for_Benefit_and_enter_benefit_details(String)"
 });
 formatter.result({
-  "duration": 583884500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HealthDetailseStepdef.user_answers_the_health_questions()"
 });
 formatter.result({
-  "duration": 3211485400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "NHSHelpResultStepdef.it_should_display_NHS_Help_Result_page()"
 });
 formatter.result({
-  "duration": 16748000,
-  "status": "passed"
+  "status": "skipped"
 });
 });
