@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: com.runner.CucumberRunner
 -------------------------------------------------------------------------------
-Tests run: 44, Failures: 0, Errors: 2, Skipped: 9, Time elapsed: 64.525 s <<< FAILURE! - in com.runner.CucumberRunner
+Tests run: 44, Failures: 0, Errors: 2, Skipped: 9, Time elapsed: 67.817 s <<< FAILURE! - in com.runner.CucumberRunner
 Given user is in NHS home page(| "No" | "No" |)  Time elapsed: 0.002 s  <<< ERROR!
 org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.cssSelector: button#nhsuk-cookie-banner__link_accept_analytics.button (tried for 10 second(s) with 500 milliseconds interval)
 Caused by: org.openqa.selenium.NoSuchWindowException: 
@@ -11,8 +11,8 @@ from unknown error: web view not found
 Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
 System info: host: 'E0352983', ip: '10.255.70.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\VANNAD~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60644}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 247368695a30af253cb9d2b9aaa6b77f
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\VANNAD~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60978}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: faf78d86266d2647d65c0cba55570bf3
 *** Element info: {Using=css selector, value=button#nhsuk-cookie-banner__link_accept_analytics.button}
 
 | "No" | "No" |  Time elapsed: 0.003 s  <<< ERROR!
@@ -24,7 +24,7 @@ from unknown error: web view not found
 Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
 System info: host: 'E0352983', ip: '10.255.70.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\VANNAD~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60644}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 247368695a30af253cb9d2b9aaa6b77f
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\VANNAD~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60978}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: faf78d86266d2647d65c0cba55570bf3
 *** Element info: {Using=css selector, value=button#nhsuk-cookie-banner__link_accept_analytics.button}
 
